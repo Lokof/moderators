@@ -1,5 +1,5 @@
 # Russian language moderator candidates list
 
-# Aleksei
-- Discord user name: `Aleksei#7906`
-- UnUniFi address : `ununifi1ydtts8a9r5jr0qmls9cy60p2j9ewvg6mrnkh4z`
+# Dmitriy Lonyef
+- Discord user name: `Lonyef#6662`
+- UnUniFi address : `ununifi14s9pmpse6w8mpkqh44ptmr38pgw0q04fqtwcxa`
